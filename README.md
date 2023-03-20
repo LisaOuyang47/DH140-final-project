@@ -17,7 +17,11 @@ This is the purpose of this project, to use coding to understand the real needs 
  
 # Ideas/potential research questions 
  
-For this project and the dataset, I will concenrate on three research questions: i)the popularity of product categories; ii) the relationship of discounted items to sales/ratings; iii) and the sentiment analysis of buyers towards the products. 
+For this project and the dataset, I will concenrate on three research questions: i)What is the relationship between product price and user rating? Does discounting boost customers' consumption as well as ratings?; ii) What is the overall sentiment of users about the product in the dataset? Which words are used most often in negative/positive reviews?; iii) Is there a positive relationship between emotions and ratings? If not, why?
+
+# Data Limitation
+
+I would like to declare here that this dataset has just over a thousand product data information. Although this number is not very small, in my analysis I found that most of the products in this dataset are concentrated in specific categories, and that the dataset does not contain all the product categories available on Amazon. Based on just over a thousand records we cannot represent quite accurately the overall representation of user reviews for each category, which is a limitation and bias of this dataset and project.
 
 
 Reference:

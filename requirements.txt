@@ -1,3 +1,15 @@
 pandas
 matplotlib
 numpy
+plotly_express
+nltk
+word_tokenize
+stopwords
+punctuation
+PorterStemmer
+FreqDist
+make_subplots
+plotly.graph_objects
+vader
+WordCloud
+ImageColorGenerator
