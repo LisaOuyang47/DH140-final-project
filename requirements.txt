@@ -3,12 +3,3 @@ matplotlib
 numpy
 plotly_express
 nltk
-nltk.tokenize
-nltk.corpus
-string
-nltk.stem.porter
-nltk.probability
-plotly.subplots
-plotly.graph_objects
-nltk.sentiment
-wordcloud
